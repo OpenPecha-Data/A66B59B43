@@ -1,0 +1,22 @@
+id: A66B59B43
+title: 'Mātṛceṭa: Śatapañcāśatka'
+type: translation
+pechas:
+- I5EE6B2C2
+- I19F4D221
+- I3B1377A4
+- I17F148BB
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:06:23.310457
+  last_modified_at: 2023-02-08 16:06:23.310478
+alignment_to_base:
+  I5EE6B2C2/7C3F: 6BB3
+  I19F4D221/F096: 6BB3
+  I3B1377A4/BB22: 6BB3
+  I17F148BB/9CFC: 6BB3
